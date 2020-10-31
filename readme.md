@@ -22,18 +22,18 @@ up to 100 it increases throughput and reduces latency. After 200, especially **m
 
 
 
-##Consumer Console: <br>
+## Consumer Console: <br>
 ![Consumer Console](images/console_consumer.png)
 
-##Spark Output Table and Progress Report
-<![Output Table](images/table.png)
+## Spark Output Table and Progress Report
+![Output Table](images/table.png)
 
 
-<![Progress Report](images/progress_report.png)
+![Progress Report](images/progress_report.png)
 
 
-##Spark UI
-<![Spark UI](images/sparkui.png)
+## Spark UI
+![Spark UI](images/sparkui.png)
 
 
 
